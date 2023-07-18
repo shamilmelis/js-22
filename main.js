@@ -25,18 +25,12 @@
 
 /* Задание 5 */
 // const arr1 = [1, 2, 3];
-// const elementsOne = 4;
-// const elementsTwo = 5;
-// const elementsThree = 6;
-// arr1.push(elementsOne, elementsTwo, elementsThree)
+// arr1.push(4, 5, 6)
 // console.log(arr1)
 
 /* Задание 6 */
 // const arr1 = [1, 2, 3];
-// const elementsOne = 4;
-// const elementsTwo = 5;
-// const elementsThree = 6;
-// arr1.unshift(elementsOne, elementsTwo, elementsThree)
+// arr1.unshift(4, 5, 6)
 // console.log(arr1)
 
 /* Задание 7 */
