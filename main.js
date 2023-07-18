@@ -13,7 +13,10 @@
 // console.log(clearArr([0, 1, false, 2, undefined, '', 3, null]))
 
 /* Задание 3 */
-// Loading...
+// const filtration = (array) => {
+//  return array.filter((el, idx, place) => place.indexOf(el) === idx)
+// }
+// console.log(filtration([1, 2, 3, 1, 2]))
 
 /* Задание 4 */
 // const arr1 = ['a', 'b', 'c']
